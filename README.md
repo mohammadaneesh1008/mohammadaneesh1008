@@ -23,14 +23,6 @@ Computer Science Engineering Student
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,mongodb,git,github,vscode" />
-</p>
-
----
-
 ## 🚀 Projects
 
 ### 🧮 Basic Calculator
@@ -74,16 +66,6 @@ An academic QA system using **RAG (Retrieval-Augmented Generation)** to answer q
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadaneesh1008&theme=tokyonight" />
-
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaneesh1008&layout=compact&theme=tokyonight" />
 
 </p>
 
